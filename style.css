@@ -3,9 +3,9 @@ margin-left: 500px;
 margin-right: 380px;
 padding: 0px;}
 
-.name {margin-bottom: 0px; font-size: 30px; }
+.name {margin-bottom: 0px; font-size: 30px; color: blue; }
 
-.anakin {margin-top: 0px; font-size: 30px;}
+.anakin {margin-top: 0px; font-size: 60px;color: red;}
 
 .galaxy {background-color: #202020;
 color: white;
